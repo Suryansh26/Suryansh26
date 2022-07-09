@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suryansh Pratap Singh (@Suryansh26)
-- 👀 I’m interested in SOftware Development, Web Development, Mobile Application Development, AI/ML, Blockchain Technologies and Devops.
+- 👀 I’m interested in Software Development, Web Development, Mobile Application Development, AI/ML, Blockchain Technologies and Devops.
 - 🌱 I’m currently learning Website & Mobile Application Development
 - 💞️ I’m looking to collaborate on exciting and impactive projects.
 - 📫 How to reach me
